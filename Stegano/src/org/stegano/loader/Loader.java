@@ -8,7 +8,13 @@ package org.stegano.loader;
  *
  * @author d.rodionov
  */
-public interface Loader {
+public abstract class Loader {
     
-    public boolean load(String filename);
+    public static final String PNG = "png";
+    public static String JPEG = "jpeg";
+    public static String BMP = "bmp";
+    
+    public abstract boolean load(String filename);
+    
+    
 }
