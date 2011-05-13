@@ -2,11 +2,11 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package org.stegano.loader;
+package org.jandora.loader;
 
 import java.io.File;
-import org.stegano.loader.exception.NoFileException;
-import org.stegano.loader.image.BmpLoader;
+import org.jandora.loader.exception.NoFileException;
+import org.jandora.loader.image.BmpLoader;
 
 /**
  *
