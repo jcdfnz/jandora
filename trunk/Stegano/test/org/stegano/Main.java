@@ -6,9 +6,9 @@ package org.stegano;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import org.stegano.loader.Loader;
-import org.stegano.loader.LoaderFactory;
-import org.stegano.loader.exception.NoFileException;
+import org.jandora.loader.Loader;
+import org.jandora.loader.LoaderFactory;
+import org.jandora.loader.exception.NoFileException;
 
 /**
  *
