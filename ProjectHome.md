@@ -1,0 +1,1 @@
+Java library that implements different steganography methods. That library will implement different steganography methods to have ability simply use it in Java
